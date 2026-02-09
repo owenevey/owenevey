@@ -1,4 +1,4 @@
-# Hi there 👋
+# About
 
 I’m a senior full stack engineer on the CenterWell Pharmacy mobile team at Humana. Previously, I’ve worked in a machine learning research lab, a particle accelerator research facility, and several Fortune 500 companies. I have a degree in computer science with a minor in Chinese from Michigan State.
 
