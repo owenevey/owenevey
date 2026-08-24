@@ -1,6 +1,8 @@
 # About
 
-I’m a senior full stack engineer on the CenterWell Pharmacy mobile team at Humana. Previously, I’ve worked in a machine learning research lab, a particle accelerator research facility, and several Fortune 500 companies. I have a degree in computer science with a minor in Chinese from Michigan State.
+I'm a Senior Mobile Engineer specializing in Swift, SwiftUI, UIKit, and modern iOS development practices. My professional background includes building consumer-facing products for hundreds of thousands of users, alongside publishing my own application directly to the App Store.
+
+I am deeply passionate about crafting pixel-perfect designs, and I have a proven track record of delivering high-quality applications from initial concept to App Store release with a strong focus on clean architecture. Beyond writing code, I enjoy leading teams and improving development processes to help engineering groups perform at their best.
 
 Outside of programming, I love sports, fitness, music festivals, and exploring the outdoors.
 
