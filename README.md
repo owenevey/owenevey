@@ -18,7 +18,7 @@ Outside of programming, I love sports, fitness, music festivals, and exploring t
 [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-blue?style=flat&logo=apple)](https://apps.apple.com/us/app/concertly-concert-tracker/id6747541213) 
 [![Repo](https://img.shields.io/badge/Repo-Concertly-orange?logo=github)](https://github.com/owenevey/concertly)
 
-Stay on top of all your favorite artists’ concerts with Concertly. Whether you want to discover upcoming shows near you or explore concerts in other cities, Concertly has you covered.
+An iOS app for concert tracking that lets users follow favorite artists, discover upcoming shows, save events, and receive reminders. It delivers rich concert data and personalized AI recommendations updated daily.
 
 ![AppPreview](https://raw.githubusercontent.com/owenevey/owenevey/refs/heads/main/assets/concertlyPreview.jpg)
 
@@ -28,7 +28,7 @@ Stay on top of all your favorite artists’ concerts with Concertly. Whether you
 [![Visit Site](https://img.shields.io/badge/Visit_Site-00935c?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://www.totalfootball.owenevey.com)
 [![Repo](https://img.shields.io/badge/Repo-TotalFootball-green?logo=github)](https://github.com/owenevey/TotalFootball)
 
-A centralized platform offering live soccer scores, in-depth match reports, and top news stories from across the globe.
+A web app that provides live soccer scores, in-depth match reports, and top news stories from across the globe.
 
 ![websitePreview](https://raw.githubusercontent.com/owenevey/owenevey/refs/heads/main/assets/totalFootballPreview.jpg)
 
