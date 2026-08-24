@@ -1,4 +1,4 @@
-# About
+# Hi 👋
 
 I'm a Senior Mobile Engineer specializing in Swift, SwiftUI, UIKit, and modern iOS development practices. My professional background includes building consumer-facing products for hundreds of thousands of users, alongside publishing my own application directly to the App Store.
 
