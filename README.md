@@ -18,7 +18,7 @@ Outside of programming, I love sports, fitness, music festivals, and exploring t
 [![Download on the App Store](https://img.shields.io/badge/Download%20on%20the%20App%20Store-blue?style=flat&logo=apple)](https://apps.apple.com/us/app/concertly-concert-tracker/id6747541213) 
 [![Repo](https://img.shields.io/badge/Repo-Concertly-orange?logo=github)](https://github.com/owenevey/concertly)
 
-An iOS app for concert tracking that lets users follow favorite artists, discover upcoming shows, save events, and receive reminders. It delivers rich concert data and personalized AI recommendations updated daily.
+An iOS app for concert tracking that lets users follow favorite artists, discover upcoming shows, save events, and receive reminders. It delivers rich concert data and personalized AI recommendations updated daily. It also provides flight options and hotel accommodations near the venue.
 
 ![AppPreview](https://raw.githubusercontent.com/owenevey/owenevey/refs/heads/main/assets/concertlyPreview.jpg)
 
